@@ -1,0 +1,21 @@
+{
+  "name": "bench-node-cli",
+  "version": "0.1.5",
+  "main": "index.js",
+  "bin": {
+    "bench-node-cli": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bench-node",
+    "benchmark"
+  ],
+  "author": "RafaelGSS",
+  "license": "MIT",
+  "dependencies": {
+    "bench-node": "^0.2.1",
+    "module-alias": "^2.2.3"
+  }
+}
