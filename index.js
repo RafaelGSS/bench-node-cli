@@ -1,4 +1,4 @@
-#!/usr/bin/env node --allow-natives-syntax
+#!/usr/bin/env -S node --allow-natives-syntax
 require('module-alias/register')
 
 const path = require('path')
