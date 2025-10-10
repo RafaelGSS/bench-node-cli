@@ -1,6 +1,6 @@
 {
   "name": "bench-node-cli",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "main": "index.js",
   "bin": {
     "bench-node-cli": "./index.js"
